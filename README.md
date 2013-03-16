@@ -8,5 +8,6 @@ Enables a service in OS X Finder app do show / hide hidden files.
 
 If you have git and know how to open a terminal:
 ```
-$ git clone git@github.com:nunoveloso/hidden-files-Finder-toggler.workflow.git ~/Library/Services
+$ cd ~/Library/Services
+$ git clone git@github.com:nunoveloso/hidden-files-Finder-toggler.workflow.git
 ```
